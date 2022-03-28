@@ -1,4 +1,4 @@
-### Meu nome é Vinicius de Paula Martins dos Anjos
+### Vinicius de Paula Martins dos Anjos
 * Casado com a Roberta Dutra e pai de 2 filhos (Joanna e Bento)
 * Nascido e criado em São Paulo, Brasil, onde moro atualmente
 * Estudante de desenvolvimento Web na Trybe, atuamente estou no módulo de Front-End
