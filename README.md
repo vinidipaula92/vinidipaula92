@@ -1,3 +1,5 @@
+## Hello World <img src="https://s2.static.brasilescola.uol.com.br/be/conteudo/images/planeta-terra.jpg" width="40px" />
+
 ### Vinicius de Paula Martins dos Anjos
 * Casado com a Roberta Dutra e pai de 2 filhos (Joanna e Bento)
 * Estudante de desenvolvimento Web na Trybe, atuamente estou no módulo de Front-End
