@@ -1,13 +1,13 @@
 ## Hello World <img src="https://s2.static.brasilescola.uol.com.br/be/conteudo/images/planeta-terra.jpg" width="40px" />
 
 ### Vinicius de Paula Martins dos Anjos
-* Casado com a Roberta Dutra e pai de 2 filhos (Joanna e Bento)
-* Estudante de desenvolvimento Web na Trybe, atuamente estou no módulo de Front-End
-* 18 projetos entregues em 3 meses, sendo 3 deles em grupo
-* Projetos em biblioteca React com implementação da biblioteca Redux.
-* Projetos em HTML e na linguagem de Javascript
-* Estilizados com CSS e framework Bootstrap
-* Aprimoramentos de Soft Skills com diversos temas sobre Feedback, story Telling, aprender a aprender e etc
+* Casado com a Roberta Dutra e pai de 2 filhos (Joanna e Bento);
+* Estudante de desenvolvimento Web na Trybe, atuamente estou no módulo de Back End;
+* 21 projetos entregues em 6 meses, sendo 4 deles em grupo;
+* Projetos em biblioteca React com implementação da biblioteca Redux;
+* Projetos em HTML e na linguagem de Javascript;
+* Estilizados com CSS e framework Bootstrap;
+* Aprimoramentos de Soft Skills com diversos temas sobre Feedback, story Telling, aprender a aprender e etc;
 
 
 ![vinidipaula](https://github-readme-stats.vercel.app/api?username=vinidipaula92&show_icons=true&theme=dark&)
