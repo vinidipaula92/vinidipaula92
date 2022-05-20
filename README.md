@@ -5,7 +5,7 @@
 * Estudante de desenvolvimento Web na Trybe, atuamente estou no módulo de Back End;
 * 21 projetos entregues em 6 meses, sendo 4 deles em grupo;
 * Projeto em Docker
-* Projetos em biblioteca React com implementação da biblioteca Redux;
+* Projetos em biblioteca React com implementação da biblioteca Redux e Context API;
 * Projetos em HTML e na linguagem de Javascript;
 * Estilizados com CSS e framework Bootstrap;
 * Aprimoramentos de Soft Skills com diversos temas sobre Feedback, story Telling, aprender a aprender e etc;
