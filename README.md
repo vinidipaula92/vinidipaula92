@@ -1,6 +1,6 @@
 ## Hello World <img src="https://s2.static.brasilescola.uol.com.br/be/conteudo/images/planeta-terra.jpg" width="40px" />
 
-### Vinicius de Paula Martins dos Anjos
+### Vinicius de Paula
 * Casado com a Roberta Dutra e pai de 2 filhos (Joanna e Bento);
 * Estudante de desenvolvimento Web na Trybe, atuamente estou no módulo de Back End;
 * 21 projetos entregues em 6 meses, sendo 4 deles em grupo;
@@ -17,7 +17,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidipaula92&layout=compact&langs_count=7&theme=react"/> 
 </div>
 
-<div>
+<div align="center">
 <img src="https://img2.gratispng.com/20180417/fsw/kisspng-javascript-node-js-angularjs-jquery-github-5ad5a9c7373410.5023404615239520712261.jpg" width="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50px"/>
