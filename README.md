@@ -11,10 +11,11 @@
 * Aprimoramentos de Soft Skills com diversos temas sobre Feedback, story Telling, aprender a aprender e etc;
 
 
-![vinidipaula](https://github-readme-stats.vercel.app/api?username=vinidipaula92&show_icons=true&theme=dark&)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinidipaula92&layout=compact)](https://github.com/vinidipaula92/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/vinidipaula92">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinidipaula92&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidipaula92&layout=compact&langs_count=7&theme=react"/> 
+</div>
 
 <div>
 <img src="https://img2.gratispng.com/20180417/fsw/kisspng-javascript-node-js-angularjs-jquery-github-5ad5a9c7373410.5023404615239520712261.jpg" width="50px"/>
