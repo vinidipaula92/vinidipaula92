@@ -3,7 +3,7 @@
 ### Vinicius de Paula
 * Casado com a Roberta Dutra e pai de 2 filhos (Joanna e Bento);
 * Estudante de desenvolvimento Web na Trybe, atuamente estou no módulo de Back End;
-* 24 projetos entregues em 6 meses, sendo 4 deles em grupo;
+* 24 projetos entregues em 7 meses, sendo 4 deles em grupo;
 * Projeto em Docker
 * Projetos em biblioteca React com implementação da biblioteca Redux e Context API;
 * Projetos em HTML e na linguagem de Javascript;
