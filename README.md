@@ -3,8 +3,9 @@
 ### Vinicius de Paula
 * Estudante de desenvolvimento Web na Trybe, atuamente estou no módulo de Back End;
 * 25 projetos entregues em 7 meses, sendo 4 deles em grupo;
-* Projeto em Node com express, construção de API com arquitetura MSC
-* Projeto em Docker
+* Projeto em Node com express, construção de API com arquitetura MSC;
+* Projeto em MYSQL
+* Projeto em Docker;
 * Projetos em biblioteca React com implementação da biblioteca Redux e Context API;
 * Projetos em HTML e na linguagem de Javascript;
 * Estilizados com CSS e framework Bootstrap;
