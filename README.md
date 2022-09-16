@@ -2,7 +2,7 @@
 
 ### Vinicius de Paula
 * Estudante de desenvolvimento Web na Trybe, atuamente estou no módulo de Back End;
-* 32 projetos entregues em 9 meses, sendo 4 deles em grupo;
+* 33 projetos entregues em 10 meses, sendo 4 deles em grupo;
 * Projeto em Typescript com conceitos POO e SOLID;
 * Projeto em MongoDB
 * Projeto em NodeJs com ORM Sequelize, CRUD de posts de blogs
