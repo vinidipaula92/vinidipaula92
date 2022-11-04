@@ -3,7 +3,13 @@
 ## Hello World <img src="https://s2.static.brasilescola.uol.com.br/be/conteudo/images/planeta-terra.jpg" width="40px" />
 
 ### Vinicius de Paula
-* Desenvolvedor Web Fullstack formado na Trybe;
+
+### Minhas paixões:
+* Família 👨‍👩‍👧‍👦;
+* Samba🥁 ;
+* Futevôlei ⚽;
+
+## Desenvolvedor Web Fullstack formado na Trybe;
 * 36 projetos entregues em 10 meses, sendo 5 deles em grupo;
 * Projeto em Python com conceitos POO;
 * Projeto em Typescript com conceitos POO e SOLID;
@@ -14,7 +20,7 @@
 * Projeto em Docker;
 * Projetos em biblioteca React com implementação da biblioteca Redux e Context API;
 * Projetos em HTML e na linguagem de Javascript;
-* Estilizados com CSS e framework Bootstrap;
+* Estilizados com CSS, Framework Bootstrap e React Bootstrap;
 * Aprimoramentos de Soft Skills com diversos temas sobre Feedback, story Telling, aprender a aprender e etc;
 
 </br>
@@ -50,6 +56,7 @@
   <img align="center" alt="MySQL Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="NPM Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="NodeJs Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="PythonJs Icon" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
   <img align="center" alt="React Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Redux Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="SASS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
