@@ -3,8 +3,9 @@
 ## Hello World <img src="https://s2.static.brasilescola.uol.com.br/be/conteudo/images/planeta-terra.jpg" width="40px" />
 
 ### Vinicius de Paula
-* Estudante de desenvolvimento Web na Trybe, atuamente estou no módulo de Back End;
-* 33 projetos entregues em 10 meses, sendo 4 deles em grupo;
+* Desenvolvedor Web Fullstack formado na Trybe;
+* 36 projetos entregues em 10 meses, sendo 5 deles em grupo;
+* Projeto em Python com conceitos POO;
 * Projeto em Typescript com conceitos POO e SOLID;
 * Projeto em MongoDB
 * Projeto em NodeJs com ORM Sequelize, CRUD de posts de blogs
