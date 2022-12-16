@@ -8,9 +8,10 @@
 * Família 👨‍👩‍👧‍👦;
 * Samba🥁 ;
 * Futevôlei ⚽;
+* Tecnologia
 
 ## Desenvolvedor Web Fullstack formado na Trybe;
-* 36 projetos entregues em 10 meses, sendo 5 deles em grupo;
+* 40 projetos entregues em 12 meses, sendo 5 deles em grupo;
 * Projeto em Python com conceitos POO;
 * Projeto em Typescript com conceitos POO e SOLID;
 * Projeto em MongoDB
