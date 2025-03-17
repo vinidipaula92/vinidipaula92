@@ -10,8 +10,9 @@
 * Futevôlei ⚽;
 * Tecnologia
 
-## Desenvolvedor Web Fullstack formado na Trybe;
+## Desenvolvedor Web Fullstack;
 * 40 projetos entregues em 12 meses, sendo 5 deles em grupo;
+* Projeto em PHP com Laravel;
 * Projeto em Python com conceitos POO;
 * Projeto em Typescript com conceitos POO e SOLID;
 * Projeto em MongoDB
